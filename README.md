@@ -1,7 +1,9 @@
 <h2 align="center"> Hi, I'm Johnathan!</h2>
-*I use the pronouns He/Him/His*
+*I use the pronouns He/Him/His*   
 
 <br>
+
+#### About me:
 
 I am values driven person who cares deeply about making meaningful impacts for the communities that I work with. I use geospatial technology to do this.
 
@@ -13,7 +15,7 @@ Moving forward from this experience, I'm looking for opportunities to advance cl
 
 <br>
 
-### Technical Competencies (in order of expertise):
+#### Technical Competencies:
 
 1. Geospatial Analytics:
     * Python • R • ArcMap/ArcGIS Pro • ArcGIS Online/Enterprise • Esri Field Apps • QGIS 
