@@ -1,13 +1,11 @@
 <h2 align="center"> Hi, I'm Johnathan!</h2>
-*I use the pronouns He/Him/His*   
-
-<br>
+   
 
 #### About me:
 
-I am values driven person who cares deeply about making meaningful impacts for the communities that I work with. I use geospatial technology to do this.
+*I use the pronouns He/Him/His*
 
-<br>
+I am values driven person who cares deeply about making meaningful impacts for the communities that I work with. I use geospatial technology to do this.   
 
 I'm a recent graduate of the [Master of Urban Spatial Analytics program](https://www.design.upenn.edu/musa/about) at the University of Pennsylvania, where I studied how to help policy makers understand the policy implications of complex data analyses. I worked on problems such as building data pipelines to power a COVID-19 decision dashboard, building flood models to help policy makers prioritze funding of flood mitigation measures, and used deep learning algorithms to create land cover classification maps. 
 
