@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm Johnathan!</h2>
    
 
-#### About me:
+<h4>About me:</h4>
 
 *I use the pronouns He/Him/His*
 
@@ -13,7 +13,7 @@ Moving forward from this experience, I'm looking for opportunities to advance cl
 
 <br>
 
-#### Technical Competencies:
+<h4>Technical Competencies:<h4>
 
 1. Geospatial Analytics:
     * Python • R • ArcMap/ArcGIS Pro • ArcGIS Online/Enterprise • Esri Field Apps • QGIS 
