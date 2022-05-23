@@ -15,13 +15,13 @@ Moving forward from this experience, I'm looking for opportunities to advance cl
 
 <h4>Technical Competencies:<h4>
 
-Geospatial Analytics:
+* Geospatial Analytics:
     * Python • R • ArcMap/ArcGIS Pro • ArcGIS Online/Enterprise • Esri Field Apps • QGIS 
-Data Management:
+* Data Management:
     * Python • Git/Github • SQL/PostgreSQL • R • Google Cloud Platform • Airflow • Docker 
-Data Visualization & Communication:
+* Data Visualization & Communication:
     * Jupyter Notebooks • HTML/CSS/JavaScript • d3 •Leaflet • Carto
-Statistical Analytics:
+* Statistical Analytics:
     * Predictive Modeling • Classification and Regression based analysis • Machine Learning
   
 
